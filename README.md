@@ -15,7 +15,8 @@ Berisi dua *script* utama yang ditulis menggunakan Google BigQuery:
 * **`2_campaigner_complaint_analysis.sql`**: Penggabungan detail *campaign* dengan riwayat tiket *customer support* untuk melihat rekam jejak komplain dan persentase tiket berprioritas tinggi (*high-priority*) dari para pembuat *campaign*.
 
 ### 2. Dashboard (`/dashboard`)
+![Image](https://github.com/user-attachments/assets/b4e3c925-aa8d-4d8e-8cac-ab53887ea0df)
 * Menyediakan ringkasan performa bisnis (*management overview*) untuk level eksekutif.
 * Metrik utama yang ditampilkan meliputi Total GDV, Total Donasi, Pertumbuhan Pengguna Baru, dan Proporsi Jalur Akuisisi (*Campaign Flag*).
-* **Lihat dashboard interaktif di sini:** *[(https://lookerstudio.google.com/s/hKwZ-qUhzEc)]*
+* **Lihat dashboard interaktif di sini:** *[https://lookerstudio.google.com/s/hKwZ-qUhzEc]*
 * Berkas ekspor statis dalam bentuk PDF juga tersedia di dalam folder ini.
